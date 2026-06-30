@@ -1,12 +1,12 @@
 // DeepSeek 余额监控 — Service Worker
 const CACHE_NAME = 'ds-monitor-v1';
 const STATIC_ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icons/icon-192.png',
-  '/icons/icon-512.png',
-  '/icons/icon-180.png'
+  '/deepseek-balance/',
+  '/deepseek-balance/index.html',
+  '/deepseek-balance/manifest.json',
+  '/deepseek-balance/icons/icon-192.png',
+  '/deepseek-balance/icons/icon-512.png',
+  '/deepseek-balance/icons/icon-180.png'
 ];
 
 // Install: cache static assets
