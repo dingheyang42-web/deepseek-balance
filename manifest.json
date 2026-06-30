@@ -2,7 +2,7 @@
   "name": "DeepSeek 余额监控",
   "short_name": "DS 余额",
   "description": "DeepSeek API 余额实时监控",
-  "start_url": "/",
+  "start_url": "/deepseek-balance/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0D1117",
