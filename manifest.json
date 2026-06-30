@@ -1,0 +1,27 @@
+{
+  "name": "DeepSeek 余额监控",
+  "short_name": "DS 余额",
+  "description": "DeepSeek API 余额实时监控",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D1117",
+  "theme_color": "#0D1117",
+  "categories": ["utilities", "finance"],
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "splash_pages": null
+}
